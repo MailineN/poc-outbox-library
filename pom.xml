@@ -17,7 +17,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/POCProtools/poc-outboc-library</url>
+			<url>https://maven.pkg.github.com/POCProtools/poc-outbox-library</url>
 		</repository>
 	</distributionManagement>
 	<description>Poc for protools</description>
