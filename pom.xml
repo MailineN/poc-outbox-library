@@ -15,9 +15,8 @@
 	<name>poc-outbox-library</name>
 	<distributionManagement>
 		<repository>
-			<id>github</id>
-			<name>GitHub MailineN Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/POCProtools/poc-outbox-library</url>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
 		</repository>
 	</distributionManagement>
 	<description>Poc for protools</description>
@@ -58,6 +57,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.github.jitpack</groupId>
+			<artifactId>poc-outbox-library</artifactId>
+			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 
