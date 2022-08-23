@@ -59,7 +59,7 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.github.jitpack</groupId>
+			<groupId>com.github.pocprotools</groupId>
 			<artifactId>poc-outbox-library</artifactId>
 			<version>0.0.1</version>
 		</dependency>
