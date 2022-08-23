@@ -27,7 +27,7 @@
 		</pluginRepository>
 	</pluginRepositories>
 
-	<description>Poc for protools</description>
+	<description>Outbox Library POC</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
