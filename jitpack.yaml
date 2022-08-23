@@ -1,0 +1,7 @@
+jdk:
+  - openjdk11
+before_install:
+  - echo $VERSION
+  - echo VERSION
+install:
+  - mvn clean install -Drevision=$VERSION -f pom.xml
