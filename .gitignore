@@ -34,4 +34,4 @@ build/
 
 ### Maven Wrapper ###
 .mvn/**/*.jar
-.m2/**/*.xml
+.m2/
